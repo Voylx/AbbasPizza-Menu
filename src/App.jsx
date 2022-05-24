@@ -1,12 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 //import pages
-import { Home } from "../pages/Home";
-import { MenuInfo } from "../pages/MenuInfo";
-import { NotFound } from "../pages/NotFound";
+import { Home } from "./pages/Home";
+import { MenuInfo } from "./pages/MenuInfo";
+import { NotFound } from "./pages/NotFound";
 
 //import Component
-import { Header } from "../components/Header";
+import { Header } from "./components/Header";
 
 import "./App.css";
 
