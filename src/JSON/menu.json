@@ -1,0 +1,160 @@
+{
+  "Pizza": {
+    "Seafood": {
+      "ingredient": {
+        "EN": [
+          "Shrimp",
+          "squid",
+          "shellfish",
+          "cheese",
+          "onion",
+          "sweet pepper"
+        ],
+        "TH": ["กุ้ง", "ปลาหมึก", "หอย", "ชีส", "หัวหอม", "พริกหวาน"]
+      },
+      "Price": 219,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974354965676044319/seafood1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725115600306256/seafood_1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725115847798874/seafood_2.jpg"
+      ]
+    },
+    "Hawaien": {
+      "ingredient": {
+        "EN": ["chicken ham", "pineapple", "cheese"],
+        "TH": ["แฮมไก่", "สับปะรด", "ชีส"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725378981642250/hawaieen_1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725379312979998/hawaieen_2.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725379610783764/hawaieen_3.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725379841490954/hawaieen_4.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725380093120552/hawaieen_5.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725378272796682/hawaieen_6.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974725378620948480/hawaieen_7.jpg"
+      ]
+    },
+    "Ham Cheese": {
+      "ingredient": {
+        "EN": ["chicken ham", "cheese"],
+        "TH": ["แฮมไก่", "ชีส"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726409442455583/ham-cheese_2.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726409736032306/ham-cheese_1.jpg"
+      ]
+    },
+    "Chicken Sausage": {
+      "ingredient": {
+        "EN": ["chicken Sausage", "cheese", "onion", "sweet pepper"],
+        "TH": ["ใส้กรอกไก่", "ชีส", "หัวหอม", "พริกหวาน"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726724015259738/sausage_1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726724296269884/sausage_2.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726724547915806/sausage_3.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974726724858282054/sausage_4.jpg"
+      ]
+    },
+    "Ham and Sausage": {
+      "ingredient": {
+        "EN": [
+          "chicken Sausage",
+          "chicken ham",
+          "cheese",
+          "onion",
+          "sweet pepper"
+        ],
+        "TH": ["ใส้กรอกไก่", "แฮมไก่", "ชีส", "หัวหอม", "พริกหวาน"]
+      },
+      "Price": 189,
+      "image": []
+    },
+    "Ham and Mushrooms": {
+      "ingredient": {
+        "EN": ["chicken ham", "Champignon", "cheese"],
+        "TH": ["แฮมไก่", "เห็ดแชมปิญอง", "ชีส", "หัวหอม", "พริกหวาน"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974727377940774963/S__108224586.jpg"
+      ]
+    },
+    "Chicken Tikka": {
+      "ingredient": {
+        "EN": ["chicken Tikka", "cheese", "onion", "sweet pepper"],
+        "TH": ["ใส้กรอกไก่", "ชีส", "หัวหอม", "พริกหวาน"]
+      },
+      "Price": 189,
+      "image": []
+    },
+    "Spinach": {
+      "ingredient": {
+        "EN": ["Spinach", "cheese"],
+        "TH": ["ผักโขม", "ชีส"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974728360020291634/spinach_4.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974728359059800074/spinach_1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974728359491801198/spinach_2.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974728359768649728/spinach_3.jpg"
+      ]
+    },
+    "Cheese": {
+      "ingredient": {
+        "EN": ["cheese"],
+        "TH": ["ชีส"]
+      },
+      "Price": 189,
+      "image": [
+        "https://cdn.discordapp.com/attachments/974354929437249576/974739912953856130/Cheese_1.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974739913205502013/Cheese_3.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974739913465552946/Cheese_4.jpg",
+        "https://cdn.discordapp.com/attachments/974354929437249576/974739913721397278/Cheese_2.jpg"
+      ]
+    },
+    "Tuna": {
+      "ingredient": {
+        "EN": ["Tuna", "cheese"],
+        "TH": ["ทูน่า", "ชีส"]
+      },
+      "Price": 189,
+      "image": []
+    },
+    "Half Pizza (2in1)": {
+      "Detail": ["เลือกหน้าได้2หน้า", "Choose 2 topping"],
+      "Price": 219
+    }
+  },
+  "Appetizer": {
+    "Baked Spinach with Cheese": {
+      "Price": 59
+    },
+    "Chicken Nuggets": {
+      "Price": 59
+    },
+    "French Fried": {
+      "Price": 59
+    }
+  },
+  "Salad": {
+    "Mixed Salad": {
+      "Price": 79
+    }
+  },
+  "Spaghtti": {
+    "Carbonara Spaghetti": {
+      "Detail": ["Chicken ham and Mushroom", "เห็ดและแฮม"],
+      "Price": 89
+    }
+  },
+  "Other": {
+    "Water": {
+      "Price": 10
+    }
+  }
+}
