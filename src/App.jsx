@@ -18,11 +18,14 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
-          <Route path="/menu">
-            <Route path=":type" element={<MenuInfo />} />
+          {/* <Route path="/menu">
+            <Route path=":type" element={<MenuInfo />} /> */}
 
-            {/* <Route path="*" element={<NotFound />} /> */}
-          </Route>
+          {/* <Route path="*" element={<NotFound />} /> */}
+          {/* </Route> */}
+
+          <Route path="/menu/:type/:id" element={<MenuInfo />} />
+
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

@@ -1,5 +1,4 @@
 import React from "react";
-import { useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 
 import { MenuList } from "../components/Menu-List";
@@ -12,16 +11,6 @@ const { Pizza, Appetizer, ...menu } = menu_J;
 // console.log(Pizza, Appetizer, menu);
 
 export const Home = () => {
-  useEffect(() => {
-    // Object.entries(menu).map(([key, value]) => {
-    //   {
-    //     Object.entries(value).map(([k, v]) => {
-    //       console.log(k, v);
-    //     });
-    //   }
-    // });
-  }, []);
-
   return (
     <Container fluid="sm" className="my-3">
       <h1 className="text-start ms-5">Pizza</h1>

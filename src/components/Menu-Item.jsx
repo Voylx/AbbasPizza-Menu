@@ -1,16 +1,13 @@
-import { useEffect } from "react";
 import { Row, Col, Image } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 export const MenuItem = (props) => {
   const { img, id, value, type } = props;
 
-  useEffect(() => {}, []);
-
   return (
     <Row
       as={Link}
-      to={`/menu/${type}?id=${id}`}
+      to={`/menu/${type}/${id}`}
       className="border rounded m-1 align-items-center shadow-sm text-black"
     >
       {img && (
@@ -26,7 +23,6 @@ export const MenuItem = (props) => {
               className="position-absolute top-0 start-0 w-100 h-100 pizzaimg"
             />
           </div>
-          {/* </div> */}
         </Col>
       )}
 
