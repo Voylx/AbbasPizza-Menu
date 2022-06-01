@@ -8,7 +8,7 @@ export const MenuItem = (props) => {
     <Row
       as={Link}
       to={`/menu/${type}/${id}`}
-      className="border rounded m-1 align-items-center shadow-sm text-black"
+      className="border rounded m-1 align-items-center shadow-sm text-black p-md-2 pt-md-4"
     >
       {img && (
         <Col xs={4} md={12}>
